@@ -1,4 +1,4 @@
-package com.mobiauto.demo.models;
+package com.mobiauto.demo.entities;
 
 
 public class Resale {
